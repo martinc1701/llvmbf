@@ -1,0 +1,3 @@
+llvmlite==0.24.0  # for LLVM 6.0
+#llvmlite==0.20.0  # for LLVM 4.0
+readchar==2.0.0
